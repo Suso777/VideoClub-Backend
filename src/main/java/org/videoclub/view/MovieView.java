@@ -54,7 +54,7 @@ public class MovieView {
         List<Movie> movieList = movieController.findAllController();
 
         for (Movie movie : movieList) {
-            System.out.println("Título: " + movie.getTitulo() + " | Director: " + movie.getDirector() + " | Género: " + movie.getGenero());
+            System.out.println("Título: " + movie.getTitulo() + " | Director: " + movie.getDirector() + " | Género: " + movie.getGenero() + " | Argumento: " + movie.getArgumento() + " | Imágen: " + movie.getImagen() + " | ImageCartel: " + movie.getImageCartel() + " | Trailer: " + movie.getTrailer());
         }
     }
 }
