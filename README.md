@@ -103,12 +103,14 @@ mvn exec:java -Dexec.mainClass="org.videoclub.Main"
 
 Consulta `SELECT * FROM movies` con **180 registros** insertados correctamente desde Java vía JDBC.
 
+
+
 <img width="739" height="335" alt="CapturaEXERCICIOgithub" src="https://github.com/user-attachments/assets/04acdb3c-7928-4544-b7dc-ad29925310fa" />
 
 
 ### Compilación exitosa en IntelliJ
 
-> Añade aquí una captura del build sin errores.
+
 
 <img width="890" height="440" alt="CapturaEjercicio" src="https://github.com/user-attachments/assets/df82ce1b-b851-432d-8cb1-16296dcebc99" />
 
